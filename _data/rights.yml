@@ -1,5 +1,8 @@
 #  License data
 
+# The year you first published your website, format: YYYY
+first_publication_year: 2020  # e.g., 2021
+
 license:
   name: CC BY-NC 4.0
   link: "https://creativecommons.org/licenses/by-nc/4.0/"
