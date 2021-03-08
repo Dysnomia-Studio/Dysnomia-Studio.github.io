@@ -1,15 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Using HTML-proofer to test site.
 #
 # Requirement: https://github.com/gjtorikian/html-proofer
 #
 # Usage: bash /path/to/test.sh [indicated path]
-#
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2020 Cotes Chung
-# MIT Licensed
 
 exit 0
 
