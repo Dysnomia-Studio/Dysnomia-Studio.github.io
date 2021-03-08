@@ -750,14 +750,14 @@ $sidebar-display: "sidebar-display";
   } // ul
 
   .sidebar-bottom {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 2.1rem;
 
     @include ml-mr(auto);
     @include pl-pr(1rem);
 
     %icon {
-      width: 2.4rem;
+      width: 2rem;
       text-align: center;
     }
 
@@ -1561,13 +1561,16 @@ $sidebar-display: "sidebar-display";
     }
 
     .sidebar-bottom {
-      padding-left: 3.5rem;
       width: 100%;
 
       &.justify-content-center {
         -webkit-box-pack: start !important;
         -ms-flex-pack: start !important;
         justify-content: flex-start !important;
+      }
+
+      a:first-child {
+        padding-top: 0.75em;
       }
 
       a {
