@@ -24,6 +24,7 @@ label:
     toc: "Contents"
 
   post:
+    updated: "Updated"
     relate_posts: "Further Reading"
     button:
       next: "Newer"

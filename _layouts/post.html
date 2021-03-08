@@ -24,8 +24,9 @@ layout: default
           <!-- lastmod -->
           {% if page.last_modified_at %}
           <span>
+            {% t label.post.updated %}
             {% include timeago.html date=page.last_modified_at
-              class="lastmod" prefix="Updated" tooltip=true %}
+              class="lastmod" prefix="" tooltip=true %}
           </span>
           {% endif %}
 

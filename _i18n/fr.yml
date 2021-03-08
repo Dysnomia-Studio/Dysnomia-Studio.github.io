@@ -24,6 +24,7 @@ label:
     toc: "Contenu"
 
   post:
+    updated: "Mis à jour le"
     relate_posts: "A lire"
     button:
       next: "Suivant"
