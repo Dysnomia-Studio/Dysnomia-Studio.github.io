@@ -77,6 +77,8 @@ Les virements sont effectués à partir de 100$, 30 jours après la fin du mois 
 
 Le prix est à choisir dans une grille allant de $0 à $199.99, ensuite, des prix dans les différentes monnaies seront proposés par rapport à ce choix, ils sont modifiables. Il en va de même pour les remises (cf. chapitre suivant). Le prix peut être changé dans la durée de vie du jeu (sortie d'early access, réévaluation du prix à la baisse ou à la hausse, etc.)
 
+Lorsque j'ai choisi mon prix pour Extortion, je me suis basé sur le seul jeu du genre que je connaissais, Hacknet, et j'ai diminué un peu le prix car n'ai pas la pretention d'être aussi bon. J'ai donc choisi 4€99 de cette manière.
+
 # Soldes et remises
 
 Lors de la semaine de lancement, vous pouvez choisir une remise allant jusqu'a 40%, cette remise est faculative mais recommandée afin de profiter au maximum de la semaine la plus improtante de votre jeu. Ensuite, il vous est impossible d'appliquer une remise sur le jeu pour 6 semaines.
