@@ -63,7 +63,7 @@ Financièrement, Steam prends une part après TVA de 30% pour les revenus entre 
 
 Steam vous laisse récuperer gratuitement autant de clés de jeux que voulu afin de les revendre ou de les fournir à la presse, aux influenceurs, aux testeurs, etc. Je l'ai personnellement utilisé pour faire tester la version juste avant publication du jeu, ainsi que pour participer à un award de jeux indépendants (dans lequel je n'ai pas été qualifié par la suite).
 
-Il y a aussi le systèmes de Curators Steam, auquel vous pouvez donner des copies de votre jeu, ceux-ci feront une review de votre jeu à plus ou moins court terme assez souvent; voir même pourraient le tester en direct sur Twitch ! 
+Il y a aussi le systèmes de Curators Steam, auquel vous pouvez donner des copies de votre jeu, ceux-ci feront une review de votre jeu à plus ou moins court terme assez souvent; voir même pourraient le tester en direct sur Twitch ! Le système de curators est plus sécuritaire que la récupération de clés simples, puisque ces copies sont invendables en tant que telles.
 
 # Les conditions de récupérations des revenus sur Steam
 
@@ -77,23 +77,23 @@ Les virements sont effectués à partir de 100$, 30 jours après la fin du mois 
 
 Le prix est à choisir dans une grille allant de $0 à $199.99, ensuite, des prix dans les différentes monnaies seront proposés par rapport à ce choix, ils sont modifiables. Il en va de même pour les remises (cf. chapitre suivant). Le prix peut être changé dans la durée de vie du jeu (sortie d'early access, réévaluation du prix à la baisse ou à la hausse, etc.)
 
-Lorsque j'ai choisi mon prix pour Extortion, je me suis basé sur le seul jeu du genre que je connaissais, Hacknet, et j'ai diminué un peu le prix car n'ai pas la pretention d'être aussi bon. J'ai donc choisi 4€99 de cette manière.
+Lorsque j'ai choisi mon prix pour Extortion, je me suis basé sur le seul jeu du genre que je connaissais, Hacknet, et j'ai diminué un peu le prix car n'ai pas la pretention d'être aussi bon. J'ai donc choisi le prix de $5,99 de cette manière et Steam m'a proposé 4€99, ce qui me convenait.
 
 # Soldes et remises
 
-Lors de la semaine de lancement, vous pouvez choisir une remise allant jusqu'a 40%, cette remise est faculative mais recommandée afin de profiter au maximum de la semaine la plus improtante de votre jeu. Ensuite, il vous est impossible d'appliquer une remise sur le jeu pour 6 semaines.
+Lors de la semaine de lancement, vous pouvez choisir une remise allant jusqu'a 40%, cette remise est faculative mais recommandée afin de profiter au maximum de la semaine la plus importante de votre jeu en terme de visibilité. Ensuite, il vous est impossible d'appliquer une remise sur le jeu pour 6 semaines.
 
 Vous êtes invités (sauf 6 premières semaines) à toutes les soldes Steam, vous pouvez choisir d'y participer ou non, ainsi que la remise choisie (sans bornes).
 
-Vous pouvez créer votre propore periode de soldes, qui peut durer de 1 à 14 jours.
+Vous pouvez créer votre propre periode de soldes, qui peut durer de 1 à 14 jours.
 
 Lorsque vous modifiez vos prix, il est impossible d'appliquer une remise dans les 30 jours qui suivent.
 
-Je conseille, personnellement, de fournir une remise au lancement puis à chaque solde organisée par Steam, en augmentant tout doucement la remise au fil du temps. Les soldes sont une bonne situation pour convertir les wishlist en vente.
+Je conseille, personnellement, de fournir une remise au lancement puis à chaque solde organisée par Steam, en augmentant tout doucement la remise au fil du temps. Les soldes sont une bonne situation pour convertir les wishlists en ventes.
 
 # Services disponibles
 
-J'ai personnellement testé les achievements, le Steam Cloud, le Steam overlay mais d'autres outils sont disponibles gratuitement: Workshop, les DLC, la démo, l'accès aux amis et la communauté en général, le market, les classements, l'authentification des licences de jeux (DRM client ET serveur), Valve Anti-Cheat, etc.
+J'ai personnellement testé les achievements, la démo, le Steam Cloud, le Steam overlay mais d'autres outils sont disponibles gratuitement: Workshop, les DLC, l'accès aux amis et la communauté en général, le market, les classements, l'authentification des licences de jeux (DRM client ET serveur), Valve Anti-Cheat, etc.
 
 Voir [Documentation Steam](https://partner.steamgames.com/doc/sdk)
 
@@ -121,7 +121,7 @@ Comme vous pouvez le remarquer, la première semaine de vente est très importan
 
 # Conclusion
 
-Voila donc un petit résumé de mon experience autour de la publication d'Extortion. N'hesitez pas à aller jeter un coup d'oeil au jeu sur [Steam](https://store.steampowered.com/app/1299430/Extortion/). D'autres articles dans le genre suivront autour de point de cet article, et d'autres encore. J'ai quelques sujet en tête dont j'aimerai parler.
+Voila donc un petit résumé de mon experience autour de la publication d'Extortion. N'hesitez pas à aller jeter un coup d'oeil au jeu sur [Steam](https://store.steampowered.com/app/1299430/Extortion/), ou a mon prochain jeu sur Steam: [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/). D'autres articles dans le genre suivront autour de point de cet article, et d'autres encore. J'ai quelques sujet en tête dont j'aimerai parler.
 
 Vous pouvez me retrouver sur [Twitter](https://twitter.com/Elanis42) où je suis relativement actif et partage mes experiences autour du gamedev. Vous pouvez aussi rejoindre le [Discord de Dysnomia](https://discord.gg/c8aARey), où je parle aussi pas mal des mes projets.  
 
