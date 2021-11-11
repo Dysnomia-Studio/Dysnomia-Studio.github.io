@@ -107,7 +107,7 @@ La publication en ligne des fichiers se fait soit via l'interface web (en cas de
 
 # Resultats
 
-Au niveaux des résulats, j'ai espéré atteindre les 30-40 ventes afin de contrebalancer les $100 de frais de soumissions. Mais j'ai grandement depassé mes esperances. Voici un tableau résumant l'évolution du jeu
+Au niveaux des résulats, j'ai espéré atteindre les 30-40 ventes afin de contrebalancer les $100 de frais de soumissions. Mais j'ai grandement depassé mes esperances. Voici un tableau résumant l'évolution du jeu:
 
 |                 				| Lancement | Après 1 semaine	| Après 1 mois | Après 6 mois | Après 1 an |
 |:-----------------------------:|:---------:|:-----------------:|:------------:|:------------:|:----------:|

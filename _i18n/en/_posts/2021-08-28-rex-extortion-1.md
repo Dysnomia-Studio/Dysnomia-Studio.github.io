@@ -105,6 +105,7 @@ Publishing files can be done via Web UI (if game is lighter than 2 GB), or using
 # Results
 
 About results, I wanted Extortion to reach 30 or 40 copies sold to be able to pay the $100 Steam fee. But I did far more than that ! Here's a summary table of my game life:
+
 |                               | Launch    | After 1 week      | After 1 month | After 6 month | After 1 year |
 |:-----------------------------:|:---------:|:-----------------:|:-------------:|:-------------:|:------------:|
 | Wishlist                      | 412       | 544               | 635           | 810           | 831          |
