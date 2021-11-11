@@ -69,7 +69,7 @@ Il y a aussi le systèmes de Curators Steam, auquel vous pouvez donner des copie
 
 # Les conditions de récupérations des revenus sur Steam
 
-Steam ne vire l'argent qu'en dollars via des virements SWIFT, pas en euro; il faut donc une banque qui accepte les dollars, et qui ne prends pas trop de comissions de change ou de frais de virement étrangers.
+Steam ne vire l'argent qu'en dollars via des virements SWIFT, pas en euro; il faut donc une banque qui accepte les dollars, et qui ne prends pas trop de commissions de change ou de frais de virement étrangers.
 
 Je déconseille les comptes courant lambdas - ma banque m'a gentiment retiré 14% de la somme recue en tant que commission le premier mois -, il est plus interessant de se tourner vers compte de devises en dollars dans votre banque, ou bien d'utiliser un service comme Wise (Ex-TransferWise).
 
