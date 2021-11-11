@@ -55,6 +55,7 @@ A chaque communication, il faut bien sûr inciter l'utilisateur à ajouter à la
 
 **Dans vos communautés favorites:** Partagez autour de vous, à l'oral ou à l'écrit, toujours en respectant les règles desdites communautés. Le mot d'ordre est de faire connaître votre jeu !
 
+**Attention à l'abus d'autopromotion !** Sur Reddit, mais c'est aussi valable pour Imgur et d'autres, il faut éviter de publier uniquement du contenu promotionnel, n'hesitez pas à lire la [FAQ reddit sur ce sujet](https://www.reddit.com/wiki/selfpromotion) qui est très instructive notamment sur la regles des 1/10.
 
 # Les conditions d'une publication sur Steam
 
