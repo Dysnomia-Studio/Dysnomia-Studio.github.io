@@ -51,6 +51,7 @@ A chaque communication, il faut bien sûr inciter l'utilisateur à ajouter à la
 
 **Sur Reddit:** Dans les subreddit tels que: *r/IndieDev*, *r/IndieGaming*, *r/playmygame* (celui-ci uniquement si une demo ou le jeu est disponible gratuitement), etc. Il est important de suivre les règles propres à chaque subreddit; par exemple certains subreddits limitent les jeux payants, la frequence de post, ou même le jour sur lequel on peut poster. De même que sur Twitter, fournir un GIF ou une vidéo courte du jeu. Ne pas oublier les liens utiles en commentaire.
 
+**Sur Imgur:** En indiquant quelques tags concernant votre type de jeu (ou plus generique, comme "gamedev"), en décrivant votre/vos images, n'hesitez pas à parler du contenu.
 
 **Dans vos communautés favorites:** Partagez autour de vous, à l'oral ou à l'écrit, toujours en respectant les règles desdites communautés. Le mot d'ordre est de faire connaître votre jeu !
 
