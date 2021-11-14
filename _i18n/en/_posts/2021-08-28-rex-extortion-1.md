@@ -46,7 +46,7 @@ Like said before, it's really important to communicate during the whole developm
 
 **On Twitter:** Using *#screenshotsaturday* or *#wip*, for example. You can also use some common hashtag - that are retweeted by specialized bots and game studios. Those hashtags are: *#gamedev*, *#indiedev*, *#indiegame*, *#indie*, *#IndieGameDev*, ... You give a short descrption, a link, and of course, a GIF.
 
-**On Reddit:** In the subreddits like: *r/IndieDev*, *r/IndieGaming*, *r/playmygame* (this one only if you have a free demo or a free game), ... It's important to follow each subreddit rules. For example, some are limiting paying games, post frequency, or even when to post. Like Tiwtter, use a GIF or a short vidéo, and post links in the comments.
+**On Reddit:** In the subreddits like: *r/IndieDev*, *r/IndieGaming*, *r/playmygame* (this one only if you have a free demo or a free game), ... It's important to follow each subreddit rules. For example, some are limiting paying games, post frequency, or even when to post. Like Twitter, use a GIF or a short vidéo, and post links in the comments.
 
 **On Imgur:** By giving few tags about your game type (or generic ones like "gamedev" by default), talking about and describing your picture, don't hesitate to talk about your content !
 
@@ -60,23 +60,23 @@ Unlike some other platforms - like Epic Games for example - there's no exclusive
 
 On the financial side, Steam take a part of your revenues (after removing VAT) of 30% for revenues between 0 and 1 million dollars, 25% between 1 and 50 millions, and 20% over 50 millions. Steam manage itself VAT payments and money exchange; you don't have to think about that.
 
-Steam let you query freely as many game keys as you want. You can sell them, give to press, influencers, testers, and so on. I personaly used them to make some people test Extortion before release and to give game copies when participating to a game award (but I wasn't qualified).
+Steam let you get freely as many game keys as you want. You can sell them, give to press, influencers, testers, and so on. I personaly used them to make some people test Extortion before release and to give game copies when participating to a game award (but I wasn't qualified).
 
-There's also Steam Curatiors, you can give them copies of your games and they will test and review your game. They might even test your game on Twitch ! Curatort system is safer than giving keys because they can't sell those copies.
+There's also Steam Curatiors, you can give them copies of your games and they will test and review your game. They might even test your game on Twitch ! Curators system is safer than giving keys because they can't sell those copies.
 
 # Getting your revenues on your bank account
 
-Steam only pay with dollars currency, using SWIFT payments. You'll need a bank account that accept dollars and doesn't take too much percentage when converting money or because of foreign payments.
+Steam only pay with dollars currency, using SWIFT payments. You'll need a bank account that accept dollars and doesn't take too much percentage when converting currencies (if you need to convert) or because of foreign payments.
 
-I don't advise using standard banks (at least in France, where I experimented that), because my own bank took 14% on my first payment (that's a lot !). It's often better to use a specialisez service like Wise (Ex-TransferWise).
+I don't advise using standard banks (at least in France, where I experimented that), because my own bank took 14% on my first payment (that's a lot !). It's often better to use a specialised service like Wise (Ex-TransferWise).
 
 Payment are done when you reach $100, 30 days after the end of the month that reached that money. You can also raise the minimum amount to optimize bank costs.
 
 # Choosing the price
 
-Price is on your own, you can choose it on a grid between $0 and $199.99. Prices will be given to you based on each currency and country economy by Steam, you can customize those prices. You can also customize discounts (see next chapter). Price can change during game lifetime (early access, release, reevaluating price, and so on).
+Price is on your own, you can choose it on a grid between $0 and $199.99. Currency-specific prices will be given to you based on each currency and country economy by Steam, you can customize those prices as well. You can also customize discounts (see next chapter). Price can change during game lifetime (early access, release, reevaluating price, and so on).
 
-When I choosed Extortion's price, I based my price on a similar game I knew, Hacknet, and lowered it a bit (because my game wouldn't be as good, and I knew it). So, I choosed $5.99 and Steam proposed 4€99, price that I accepted.
+When I choosed Extortion's price, I based my price on a similar game I knew, Hacknet, and lowered it a bit (because my game wouldn't be as good, and I knew it). So, I choosed $5.99 and Steam proposed a converted price in euros of 4€99, price that I accepted.
 
 # Discount
 
@@ -92,15 +92,15 @@ My own advice, is to set a discount at every Steam discount event, raising slowl
 
 # Available services
 
-I tested achievements, demo, Steam Cloud and Steam overlay but there are plenty of available tools (and they are all free !): Workshop, DLC, friends list, community, market, ranks, game license authentication (serverside AND clienside), Valve Anti-Cheat, and so on.
+I tested achievements, demo, Steam Cloud and Steam overlay but there are plenty of available tools (and they are all free !): Workshop, DLC, friends list, community, market, leaderboards, game license authentication (serverside AND clienside), Valve Anti-Cheat, and so on.
 
 See [Steam Documentation](https://partner.steamgames.com/doc/sdk)
 
-# Updated and publish
+# Updating and publishing a game
 
-Steam have a private/public branches system to help us publishing different game versions. You can then, for example, next to *default* branch, have a public beta branch - like I did for Extortion. You could also have a private beta branch, or a branch by major version - like Factorio for example.
+Steam have a private/public branches system to help us publishing different game versions. You can then, for example, next to *default* branch, have a public beta branch - like I did for Extortion. You could also have a private beta branch, or a branch by major version - like Factorio do for example.
 
-Publishing files can be done via Web UI (if game is lighter than 2 GB), or using SteamCMD which work pretty well with a Continous integration system.
+Publishing files can be done via Web UI (if game is lighter than 2 GB), or using SteamCMD which work pretty well with a Continous Integration system.
 
 # Results
 
@@ -120,8 +120,8 @@ As you can see, the first week is really important in terms of visibility and re
 
 # Conclusion
 
-That was a small return on experience about Extortion publishing process. Check out Extortion on [Steam](https://store.steampowered.com/app/1299430/Extortion/), and my next game [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/). I'll write and publish more articles, about some subjects I lightly talked here, or about some other I have in mind.
+That was a small return on experience about Extortion publishing process. If you are interested, check out Extortion on [Steam](https://store.steampowered.com/app/1299430/Extortion/), and my next game [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/). I'll write and publish more articles, about some subjects I brievly talked about here, or about some other subjects I have in mind.
 
-You can follow me on [Twitter](https://twitter.com/Elanis42), or join [Dysnomia's Discord](https://discord.gg/c8aARey).
+You can follow me on [Twitter](https://twitter.com/Elanis42), or join [Dysnomia's Discord](https://discord.gg/c8aARey) if you are curious about my projects.
 
 Have a good day, evening or night, depending when you read this, and see ya !
