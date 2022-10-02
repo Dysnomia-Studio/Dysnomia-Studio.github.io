@@ -1,0 +1,41 @@
+pages:
+  about: "About"
+  archives: "Archives"
+  categories: "Categories"
+  home: "Home"
+  posts: "Posts"
+  tags: "Tags"
+
+PAGES:
+  ABOUT: "ABOUT"
+  ARCHIVES: "ARCHIVES"
+  CATEGORIES: "CATEGORIES"
+  HOME: "HOME"
+  TAGS: "TAGS"
+
+search:
+  cancel: "Cancel"
+  hint: "Search"
+
+label:
+  panel:
+    lastmod: "Recent Update"
+    trending_tags: "Trending Tags"
+    toc: "Contents"
+
+  post:
+    updated: "Updated"
+    relate_posts: "Further Reading"
+    button:
+      next: "Newer"
+      previous: "Older"
+
+  search_hint: "Search"   # text show on search bar
+
+  pin_prompt: "Pinned"   # pinned prompt
+
+  categories:
+    categories: "categories"
+    category: "category"
+    posts: "posts"
+    post: "post"
