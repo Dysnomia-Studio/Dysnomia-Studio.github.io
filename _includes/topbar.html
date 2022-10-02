@@ -8,34 +8,35 @@
 
     {% assign paths = page.url | split: '/' %}
 
-    {% if paths.size == 0 %}
+    {% if paths.size == 0 or page.layout == 'home' %}
       <!-- index page -->
-      <span>{{ 'Posts' }}</span>
+      <span>{{ site.data.locales[lang].tabs.home | capitalize }}</span>
+
     {% else %}
 
       {% for item in paths %}
 
         {% if forloop.first %}
-          {% unless page.layout == 'post' %}
           <span>
-            <a href="{{ '/' | relative_url }}">{{ 'Home' }}</a>
+            <a href="{{ '/' | relative_url }}">
+              {{ site.data.locales[lang].tabs.home | capitalize }}
+            </a>
           </span>
-          {% endunless %}
 
         {% elsif forloop.last %}
-          <span>{{ page.title }}</span>
 
-        {% else %}
-        <span>
-          {% assign url = item %}
-          {% if item == 'posts' and page.layout == 'post' %}
-            {% assign url = '/' %}
+          {% if page.collection == 'tabs' %}
+            <span>{{ site.data.locales[lang].tabs[item] | default: page.title }}</span>
+          {% else %}
+            <span>{{ page.title }}</span>
           {% endif %}
-          <a href="{{ url | relative_url }}">
-            {{ item | capitalize }}
-          </a>
-        </span>
 
+        {% elsif page.layout == 'category' or page.layout == 'tag' %}
+          <span>
+            <a href="{{ item | relative_url }}">
+              {{ site.data.locales[lang].tabs[item] | default: page.title }}
+            </a>
+          </span>
         {% endif %}
 
       {% endfor %}
@@ -52,7 +53,7 @@
       {% elsif page.dynamic_title %}
         {% t page.title %}
       {% else %}
-        {{- page.layout | capitalize -}}
+        {{- site.data.locales[lang].layout[page.layout] | default: page.layout | capitalize -}}
       {% endif %}
     </div>
 
