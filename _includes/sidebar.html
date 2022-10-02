@@ -31,17 +31,17 @@
   <ul class="w-100">
     <!-- home -->
     <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/' | relative_url }}" class="nav-link">
+      <a href="{{site.baseurl}}/" class="nav-link">
         <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ "HOME" }}</span>
+        <span>{% t PAGES.HOME %}</span>
       </a>
     </li>
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-      <a href="{{ tab.url | relative_url }}" class="nav-link">
+      <a href="{{site.baseurl}}{{ tab.url }}" class="nav-link">
         <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ tab.title | upcase }}</span>
+        <span>{% t {{tab.title | upcase }} %}</span>
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
@@ -49,6 +49,15 @@
   </ul> <!-- ul.nav.flex-column -->
 
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center">
+    {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+    {% if site.lang == "fr" %}
+      {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+      <a href="{{ link1 }}" class="sidebar-bottom-language" aria-label="language">EN</a>
+
+    {% elsif site.lang == "en" %}
+      {% capture link2 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}
+      <a href="{{ link2 }}" class="sidebar-bottom-language" aria-label="language">FR</a>
+    {% endif %}
 
     {% for entry in site.data.contact %}
       {% capture url %}

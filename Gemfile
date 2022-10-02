@@ -4,6 +4,7 @@ source "https://rubygems.org"
 
 gemspec
 
+gem "jekyll-multiple-languages-plugin", "1.7"
 group :test do
   gem "html-proofer", "~> 3.18"
 end

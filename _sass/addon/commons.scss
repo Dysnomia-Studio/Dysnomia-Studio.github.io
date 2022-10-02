@@ -740,12 +740,12 @@ $sidebar-display: "sidebar-display";
 
     @for $i from 1 through $tab-count {
       $offset: $tab-count - $i;
-      $top: -$offset * $tab-height + ($tab-height - $tab-cursor-height) / 2;
+      $top: -$offset * $tab-height + $tab-cursor-height / 2;
 
       @if $i < $tab-count {
         > li.active:nth-child(#{$i}),
         > li.nav-item:nth-child(#{$i}):hover {
-          ~ li:last-child::after {
+          ~li:last-child::after {
             @include fix-cursor($top);
           }
         }
@@ -761,14 +761,14 @@ $sidebar-display: "sidebar-display";
   } // ul
 
   .sidebar-bottom {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 2.1rem;
 
     @include ml-mr(auto);
     @include pl-pr(1rem);
 
     %icon {
-      width: 2.4rem;
+      width: 2rem;
       text-align: center;
     }
 
@@ -1585,13 +1585,16 @@ $sidebar-display: "sidebar-display";
     }
 
     .sidebar-bottom {
-      padding-left: 3.5rem;
       width: 100%;
 
       &.justify-content-center {
         -webkit-box-pack: start !important;
         -ms-flex-pack: start !important;
         justify-content: flex-start !important;
+      }
+
+      a:first-child {
+        padding-top: 0.75em;
       }
 
       a {

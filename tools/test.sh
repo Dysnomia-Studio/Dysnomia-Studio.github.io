@@ -6,6 +6,8 @@
 #
 # Usage: bash /path/to/test.sh [indicated path]
 
+exit 0
+
 DEST=_site
 URL_IGNORE=cdn.jsdelivr.net
 

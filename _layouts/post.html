@@ -24,8 +24,9 @@ layout: default
           <!-- lastmod -->
           {% if page.last_modified_at %}
           <span>
+            {% t label.post.updated %}
             {% include timeago.html date=page.last_modified_at
-              class="lastmod" prefix="Updated" tooltip=true %}
+              class="lastmod" prefix="" tooltip=true %}
           </span>
           {% endif %}
 
@@ -37,8 +38,15 @@ layout: default
           <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span>
           {% endif %}
 
-        </div>
+          {% if site.lang == "fr" %}
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+            <span><a href="{{ link1 }}" >English Version</a></span>
 
+          {% elsif site.lang == "en" %}
+            {% capture link2 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}
+            <span><a href="{{ link2 }}" >Version Française</a></span>
+          {% endif %}
+        </div>
       </div> <!-- .post-meta -->
 
       <div class="post-content">
