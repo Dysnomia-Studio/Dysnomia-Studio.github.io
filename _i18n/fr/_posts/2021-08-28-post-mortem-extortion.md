@@ -109,17 +109,19 @@ La publication en ligne des fichiers se fait soit via l'interface web (en cas de
 
 Au niveaux des résulats, j'ai espéré atteindre les 30-40 ventes afin de contrebalancer les $100 de frais de soumissions. Mais j'ai grandement depassé mes esperances. Voici un tableau résumant l'évolution du jeu:
 
-|                 				| Lancement | Après 1 semaine	| Après 1 mois | Après 6 mois | Après 1 an |
-|:-----------------------------:|:---------:|:-----------------:|:------------:|:------------:|:----------:|
-| Wishlist        				| 412		| 544				| 635		   | 810		  | 831        |
-| Download Demo   				| 2,802     | 2,834				| 2,864		   | 3,649		  | 4,621      |
-| Ventes          				| 0		  	| 103				| 136		   | 216		  | 258        |
-| Retours         				| 0 (0%)    | 11 (10.7%)		| 14 (10.3%)   | 19 (8.8%)	  | 23 (8.8%)  |
-| Revenus bruts <sup>1</sup>  	| $0		| $455				| $635		   | $1,045		  | $1,227     |
+|                 				| Lancement | Après 1 semaine	| Après 1 mois | Après 6 mois | Après 1 an | Après 2 ans |
+|:-----------------------------:|:---------:|:-----------------:|:------------:|:------------:|:----------:|:-----------:|
+| Wishlist        				| 412		| 544				| 635		   | 810		  | 831        | 960         |
+| Download Demo   				| 2,802     | 2,834				| 2,864		   | 3,649		  | 4,621      | 6,533       |
+| Ventes          				| 0		  	| 103				| 136		   | 216		  | 258        | 306         |
+| Retours         				| 0 (0%)    | 11 (10.7%)		| 14 (10.3%)   | 19 (8.8%)	  | 23 (8.8%)  | 29 (9.4%)   | 
+| Revenus bruts <sup>1</sup>  	| $0		| $455				| $635		   | $1,045		  | $1,227     | $1,420      |
 
-<sup>1</sup>: De ces revenus seront soustraits Retours, TVA, part de Steam (30%), Impots, Frais bancaires, etc.
+<sup>1</sup>: De ces revenus seront soustraits Retours, TVA, part de Steam (30%), Impots, Frais bancaires (frais de change par exemple), etc.
 
 Comme vous pouvez le remarquer, la première semaine de vente est très importante dans la visibilité et les revenus.
+
+*Edit 12/2022:* J'ai mis à jour les données après 2 ans, on peut voir une remontée de l'attrait du jeu depuis septembre depuis que j'ai ajouté de nouveaux tags sur le jeu.
 
 # Conclusion
 

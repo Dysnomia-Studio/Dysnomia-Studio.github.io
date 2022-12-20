@@ -106,17 +106,19 @@ Publishing files can be done via Web UI (if game is lighter than 2 GB), or using
 
 About results, I wanted Extortion to reach 30 or 40 copies sold to be able to pay the $100 Steam fee. But I did far more than that ! Here's a summary table of my game life:
 
-|                               | Launch    | After 1 week      | After 1 month | After 6 month | After 1 year |
-|:-----------------------------:|:---------:|:-----------------:|:-------------:|:-------------:|:------------:|
-| Wishlist                      | 412       | 544               | 635           | 810           | 831          |
-| Demo Download                 | 2,802     | 2,834             | 2,864         | 3,649         | 4,621        |
-| Copies Sold                   | 0         | 103               | 136           | 216           | 258          |
-| Return                        | 0 (0%)    | 11 (10.7%)        | 14 (10.3%)    | 19 (8.8%)     | 23 (8.8%)    |
-| Raw revenues <sup>1</sup>     | $0        | $455              | $635          | $1,045        | $1,227       |
+|                               | Launch    | After 1 week      | After 1 month | After 6 month | After 1 year | After 2 years |
+|:-----------------------------:|:---------:|:-----------------:|:-------------:|:-------------:|:------------:|:-------------:|
+| Wishlist                      | 412       | 544               | 635           | 810           | 831          | 960           |
+| Demo Download                 | 2,802     | 2,834             | 2,864         | 3,649         | 4,621        | 6,533         |
+| Copies Sold                   | 0         | 103               | 136           | 216           | 258          | 306           |
+| Return                        | 0 (0%)    | 11 (10.7%)        | 14 (10.3%)    | 19 (8.8%)     | 23 (8.8%)    | 29 (9.4%)     |
+| Raw revenues <sup>1</sup>     | $0        | $455              | $635          | $1,045        | $1,227       | $1,420        |
 
-<sup>1</sup>: From raw revenues, you have to remove returns, VAT, Steam part (30%), tax, bank costs, and so on.
+<sup>1</sup>: From raw revenues, you have to remove returns, VAT, Steam part (30%), tax, bank costs (e.g. $ => € change costs), and so on.
 
 As you can see, the first week is really important in terms of visibility and revenues.
+
+*Edit 12/2022:* I updated table to add "After 2 years column", you can see that there were a bump in attractivity, caused by adding new tags on the store page in September.
 
 # Conclusion
 
