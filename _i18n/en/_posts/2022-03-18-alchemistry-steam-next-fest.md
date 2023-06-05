@@ -11,7 +11,7 @@ During february 2022, with [Alchemistry](https://store.steampowered.com/app/1730
 
 The first thing to talk about, is the next fest page layout. You can filter it by games categories, then you have sections with subcategories (with game placement randomized). That layout was my first luck. Why ? Because in the "puzzle" tab, the first section was "minimalist puzzles" and ... I was there with Alchemistry.
 
-![](/assets/img/2022-02-21_185553_store.steampowered.com.png)
+![](/assets/img/2022-02-21_185553_store.steampowered.com.webp)
 
 As you can imagine, being able to be on the top of the page, even on a "secondary" page, helps a lot visibility. And that was completly based on Steam choices, not mines, the first element was luck.
 
@@ -24,7 +24,7 @@ I did the same thing on Saturday 26th morning, and got less visibility, but stil
 
 Even after a month, having the graph a bit flatten (the oldest event has originally been seen only few hundred times), we still see huge differences between next fest events, and non next fest ones:
 
-![](/assets/img/2022-03-18_alchemistry-next-fest-events.png)
+![](/assets/img/2022-03-18_alchemistry-next-fest-events.webp)
 
 # The Demo
 
@@ -40,21 +40,21 @@ Now, don't lie, you're here for them (:D), let's throw some graphs. I will keep 
 
 ## View amount on Steam Page
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-store-visits.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-store-visits.webp)
 
 ## Wishlists
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-wishlists.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-wishlists.webp)
 
 ## Demo concurrent users
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-demo-concurrent-players.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-demo-concurrent-players.webp)
 
 ## Discord
 
 Discord community is pretty small, but it still grew during and since next fest.
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-discord.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-discord.webp)
 
 ## Twitter
 

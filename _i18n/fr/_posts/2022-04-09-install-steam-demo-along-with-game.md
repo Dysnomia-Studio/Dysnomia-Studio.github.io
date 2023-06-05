@@ -9,7 +9,7 @@ categories: gamedev
 
 Vous pouvez récuperer cet id via steamworks, ou via [Steamdb](https://steamdb.info) en utilisant la barre de recherche, dans les resultats vous obtenez:
 
-![](/assets/img/2022-04-09_steamdb-demo-appid.png)
+![](/assets/img/2022-04-09_steamdb-demo-appid.webp)
 
 ## Ouvrez la console steam
 
@@ -23,4 +23,4 @@ Tapez `app_install DEMO_ID` en remplacant *DEMO_ID* par votre app id, par exempl
 
 Vous devriez maintenant avoir le jeu et la démo dans votre bibliothque steam (et la demo sera mis à jour automatiquement comme un jeu standard).
 
-![](/assets/img/2022-04-09_steam_demo+game.png)
+![](/assets/img/2022-04-09_steam_demo+game.webp)

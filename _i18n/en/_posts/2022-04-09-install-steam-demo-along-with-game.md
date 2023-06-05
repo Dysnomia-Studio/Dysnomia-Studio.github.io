@@ -9,7 +9,7 @@ categories: gamedev
 
 You can get your demo app id using steamworks, or using [Steamdb](https://steamdb.info) using the search bar, in the results:
 
-![](/assets/img/2022-04-09_steamdb-demo-appid.png)
+![](/assets/img/2022-04-09_steamdb-demo-appid.webp)
 
 ## Open steam console
 
@@ -23,4 +23,4 @@ Type `app_install DEMO_ID` while replacing *DEMO_ID* by your app id, for example
 
 You should now have both game and demo in your game library ! (And it will update as a normal game)
 
-![](/assets/img/2022-04-09_steam_demo+game.png)
+![](/assets/img/2022-04-09_steam_demo+game.webp)

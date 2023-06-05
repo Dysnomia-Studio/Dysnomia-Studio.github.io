@@ -14,18 +14,18 @@ categories: gamedev
 
 The game launched with ~1.8k wishlists, which is a lot compared to my previous game (~400), thanks to Steam Next Fest (2 weeks before launch) which gave ~1.5k wishlists. After launch, there was another spike when reaching the 10th review then it fell slowly until Puzzle Fest 2023 which saw another small increase.
 
-![](/assets/img/2023-05-20_wishlists.png)
+![](/assets/img/2023-05-20_wishlists.webp)
 
 Followers had the same trend as wishlists, It was at 87 (1/21 ratio) at launch, 24 (1/10 ratio) before Next fest, and now am at 173 followers (1/12 ratio) on the Steam page.
 
 (Source: [https://steamdb.info/app/1730540/charts/](https://steamdb.info/app/1730540/charts/) )
 
-![](/assets/img/2023-05-20_followers.png)
+![](/assets/img/2023-05-20_followers.webp)
 
 Last stats before we talk money, are visits and impressions. Seeing a total of 140k visits and 1.8M impression is mind blowing for the small developer writing this. On these graphs we can clearly see 3 big spikes (next fest, release, 10th review) and their tail.
 
-![](/assets/img/2023-05-20_visits.png)
-![](/assets/img/2023-05-20_impressions.png)
+![](/assets/img/2023-05-20_visits.webp)
+![](/assets/img/2023-05-20_impressions.webp)
 
 Here we are for the juicy stats (1st year only):  
 
@@ -38,7 +38,7 @@ Here we are for the juicy stats (1st year only):
 **Median time played:** 27 minutes (Estimated life: 3 hours)  
 **Lifetime unique users:** 678 (93%)  
 
-![](/assets/img/2023-05-20_sold.png)
+![](/assets/img/2023-05-20_sold.webp)
 
 And about the Demo (1st year only):  
 
@@ -48,7 +48,7 @@ And about the Demo (1st year only):
 
 I spent 221 hours working on the game (developement, marketing, etc.), including 79.5 hours after release day. All of that was during my free time (gamedev isn't my main work yet). I have been able to release 4 patches, 3 major updates, and 5 regular ones e.g. Steam Deck support
 
-![](/assets/img/2023-05-20_time_spent.png)
+![](/assets/img/2023-05-20_time_spent.webp)
 
 A final note about those graphs: you might notice I get more "activity" from ~nov. 2022. That's because I'm trying out different ways to discount the game monthly to increase visibility (and it looks like it works !).
 

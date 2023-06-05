@@ -11,7 +11,7 @@ Au cours du mois de février 2022, avec [Alchemistry](https://store.steampowered
 
 La première chose à aborder est l'arrangement de la page de la Steam Next Fest: vous pouvez filtrer les jeux par catégorie, puis dans chaque onglet (catégorie), des sections par sous-catégories (ou les jeux sont aléatoirment placés) sont présentes. Cet arrangement était de la pure chance pour moi. Pourquoi ? Car dans l'onglet "Puzzle", j'ai été placé dans la première sous-catégorie "Puzzle Minimaliste" avec Alchemistry.
 
-![](/assets/img/2022-02-21_185553_store.steampowered.com.png)
+![](/assets/img/2022-02-21_185553_store.steampowered.com.webp)
 
 Comme vous pouvez l'imaginer, être en haut de page, même sur une page secondaire aide énormement à la visibilité.
 
@@ -24,7 +24,7 @@ J'ai ensuite fait un stream semblable le samedi 26 février, ait eu un peu moins
 
 Même après un mois, ou les écarts sont moins visibles (le plus ancien des evenements n'avait originalement été vu que quelques centaines de fois), on voit très clairement la difference de visibilité entre les evenements dédiés à la Next Fest, et ceux qui ne le sont pas:
 
-![](/assets/img/2022-03-18_alchemistry-next-fest-events.png)
+![](/assets/img/2022-03-18_alchemistry-next-fest-events.webp)
 
 # La Demo
 
@@ -40,21 +40,21 @@ A présent, on va pas se mentir, vous êtes là pour ca (:D), partageons quelque
 
 ## Visibilité de la page steam
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-store-visits.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-store-visits.webp)
 
 ## Listes de souhaits
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-wishlists.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-steam-wishlists.webp)
 
 ## Joueurs concurents sur la démo
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-demo-concurrent-players.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-demo-concurrent-players.webp)
 
 ## Discord
 
 La communauté sur Discord est relativement petite, mais elle a profité de la Next Fest.
 
-![](/assets/img/2022-02-21_2022-02-28_alchemistry-discord.png)
+![](/assets/img/2022-02-21_2022-02-28_alchemistry-discord.webp)
 
 ## Twitter
 
