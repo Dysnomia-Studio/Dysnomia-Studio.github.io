@@ -1,8 +1,6 @@
 /*
   The common styles
 */
-@import url('/css/googleFonts.css');
-
 @mixin mode-toggle($dark-mode: false) {
   @if $dark-mode {
     @include dark-scheme;
