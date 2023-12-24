@@ -7,7 +7,7 @@ categories: gamedev
 
 *This post was initialy written on [Twitter](https://twitter.com/DysnomiaStudio/status/1655492420803371010) and [Mastodon](https://mastodon.gamedev.place/@Elanis/110332183413305320) as a thread.*
 
-1 year and two months ago (March 7th, 2022), [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) released on Steam. Now that I precisely have the figures up to march 2023, I'm going to do a summary of that first year or so.
+1 year and two months ago (March 7th, 2022), [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) released on Steam. Now that I precisely have the figures up to March 2023, I'm going to do a summary of that first year or so.
 
 
 ![](/assets/img/2023-05-20_gameplay.gif)
@@ -16,13 +16,13 @@ The game launched with ~1.8k wishlists, which is a lot compared to my previous g
 
 ![](/assets/img/2023-05-20_wishlists.webp)
 
-Followers had the same trend as wishlists, It was at 87 (1/21 ratio) at launch, 24 (1/10 ratio) before Next fest, and now am at 173 followers (1/12 ratio) on the Steam page.
+Followers had the same trend as wishlists, It was at 87 (1/21 ratio) at launch, 24 (1/10 ratio) before Next Fest, and now am at 173 followers (1/12 ratio) on the Steam page.
 
 (Source: [https://steamdb.info/app/1730540/charts/](https://steamdb.info/app/1730540/charts/) )
 
 ![](/assets/img/2023-05-20_followers.webp)
 
-Last stats before we talk money, are visits and impressions. Seeing a total of 140k visits and 1.8M impression is mind blowing for the small developer writing this. On these graphs we can clearly see 3 big spikes (next fest, release, 10th review) and their tail.
+The last stats before we talk money, are visits and impressions. Seeing a total of 140k visits and 1.8M impressions is mind-blowing for the small developer writing this. On these graphs, we can clearly see 3 big spikes (next fest, release, 10th review) and their tail.
 
 ![](/assets/img/2023-05-20_visits.webp)
 ![](/assets/img/2023-05-20_impressions.webp)
@@ -46,10 +46,10 @@ And about the Demo (1st year only):
 **Lifetime unique users:** ~3k  
 **Median time played (demo):** 6 minutes (Estimated life: 15 minutes)  
 
-I spent 221 hours working on the game (developement, marketing, etc.), including 79.5 hours after release day. All of that was during my free time (gamedev isn't my main work yet). I have been able to release 4 patches, 3 major updates, and 5 regular ones e.g. Steam Deck support
+I spent 221 hours working on the game (development, marketing, etc.), including 79.5 hours after release day. All of that was during my free time (game dev isn't my main work yet). I have been able to release 4 patches, 3 major updates, and 5 regular ones e.g. Steam Deck support
 
 ![](/assets/img/2023-05-20_time_spent.webp)
 
 A final note about those graphs: you might notice I get more "activity" from ~nov. 2022. That's because I'm trying out different ways to discount the game monthly to increase visibility (and it looks like it works !).
 
-Thanks for reading this small post, and as a reminder that you can get Alchemistry on Steam [Here](https://store.steampowered.com/app/1730540/Alchemistry/).
+Thanks for reading this small post, and as a reminder you can get Alchemistry on Steam [Here](https://store.steampowered.com/app/1730540/Alchemistry/).
