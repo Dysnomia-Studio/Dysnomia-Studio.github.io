@@ -5,9 +5,9 @@ tags: gamedev steam
 categories: gamedev
 ---
 
-## Get your demo app id
+## Get your demo app ID
 
-You can get your demo app id using steamworks, or using [Steamdb](https://steamdb.info) using the search bar, in the results:
+You can get your demo app ID using SteamWorks, or using [Steamdb](https://steamdb.info) using the search bar, in the results:
 
 ![](/assets/img/2022-04-09_steamdb-demo-appid.webp)
 
@@ -19,8 +19,8 @@ To open steam console, type [steam://open/console](steam://open/console) in your
 
 Type `app_install DEMO_ID` while replacing *DEMO_ID* by your app id, for example `app_install 1766570`.
 
-## Have fun !
+## Have fun!
 
-You should now have both game and demo in your game library ! (And it will update as a normal game)
+You should now have both game and demo in your game library! (And it will update as a normal game)
 
 ![](/assets/img/2022-04-09_steam_demo+game.webp)
