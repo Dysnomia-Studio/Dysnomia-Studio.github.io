@@ -26,23 +26,23 @@ Now, the juicy stats you've been waiting for:
 
 (Lifetime, 10 days ago vs now)
 
-Active wishlists: 1970 → 2980 (+1222, -93, 118 conversions)
-Copies sold: 968 → 1520 (net units)
-Refund rate: 12.9% → 11.3%
-Followers: 184 → 197
-Page impressions: 1.9M → 2.3M
-Page visits: 198k → 210k
-Happiness: over 9000 😁
+Active wishlists: 1970 → 2980 (+1222, -93, 118 conversions)  
+Copies sold: 968 → 1520 (net units)  
+Refund rate: 12.9% → 11.3%  
+Followers: 184 → 197  
+Page impressions: 1.9M → 2.3M  
+Page visits: 198k → 210k  
+Happiness: over 9000 😁  
 
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_Copies.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_wishlists.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_visits_impressions.png)
 
-Demo claims: 26k => 27k
-
-Game DAU (avg): 3 (lifetime before event) => 80 (last week)
-Top DAU: 100 (release date) => 124 (last week)
-Top CCU: 9 (release date) => 11 (during event)
+Demo claims: 26k => 27k  
+  
+Game DAU (avg): 3 (lifetime before event) => 80 (last week)  
+Top DAU: 100 (release date) => 124 (last week)  
+Top CCU: 9 (release date) => 11 (during event)  
 
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_DAU.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_CCU.png)

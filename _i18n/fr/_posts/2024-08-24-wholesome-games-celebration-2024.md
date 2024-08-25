@@ -26,23 +26,23 @@ Maintenant, les statistiques juteuses que vous attendiez :
 
 (Vie complète, il y a 10 jours par rapport à aujourd'hui)
 
-Listes de souhaits actives: 1970 → 2980 (+1222, -93, 118 conversions)
-Copies vendues: 968 → 1520 (unités net)
-Taux de retour: 12.9% → 11.3%
-Followers: 184 → 197
-Impressions: 1.9M → 2.3M
-Visites: 198k → 210k
-Joie: over 9000 😁
+Listes de souhaits actives: 1970 → 2980 (+1222, -93, 118 conversions)  
+Copies vendues: 968 → 1520 (unités net)  
+Taux de retour: 12.9% → 11.3%  
+Followers: 184 → 197  
+Impressions: 1.9M → 2.3M  
+Visites: 198k → 210k  
+Joie: over 9000 😁  
 
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_Copies.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_wishlists.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_visits_impressions.png)
 
-Acquisitions de la demo: 26k => 27k
-
-DAU du jeu (avg): 3 (Vie complète avant l'evenement) => 80 (pendant l'évenement)
-Top DAU: 100 (jour de sortie du jeu) => 124 (pendant l'évenement)
-Top CCU: 9 (jour de sortie du jeu) => 11 (pendant l'évenement)
+Acquisitions de la demo: 26k => 27k  
+  
+DAU du jeu (avg): 3 (Vie complète avant l'evenement) => 80 (pendant l'évenement)  
+Top DAU: 100 (jour de sortie du jeu) => 124 (pendant l'évenement)  
+Top CCU: 9 (jour de sortie du jeu) => 11 (pendant l'évenement)  
 
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_DAU.png)
 ![](/assets/img/2024-08-24_wholesome-games-celebration-2024_CCU.png)
