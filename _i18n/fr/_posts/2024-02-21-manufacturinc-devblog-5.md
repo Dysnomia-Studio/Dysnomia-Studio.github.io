@@ -43,7 +43,7 @@ Remplir des contrats sera un énorme plus pour votre entreprise, mais ce n'est p
 Et un moyen de ne pas manquer les prochains est de suivre le Hub du jeu, en utilisant le bouton "Suivre" sur la page Steam.
 Et si vous êtes intéressé, je serais également heureux que vous mettiez le jeu en liste de souhaits.
 
-![](/assets/img/2024-02-21-manufacturinc-devblog-5-wislist.gif)
+![](/assets/img/steam-wishlist-button.gif)
 
 Si vous souhaitez me suivre ailleurs et obtenir plus qu'une mise à jour mensuelle sur l'état du jeu, vous pouvez le faire :
 - [Rejoindre le Discord de Dysnomia](https://discord.com/invite/c8aARey)

@@ -43,7 +43,7 @@ Filling contracts will be a huge plus to your business, but it's not and will no
 And one way to not miss the following ones is to follow the game Hub, using the "Follow" button on the Steam page.
 And if you're interested, I would also be happy if you wishlisted the game as well.
 
-![](/assets/img/2024-02-21-manufacturinc-devblog-5-wislist.gif)
+![](/assets/img/steam-wishlist-button.gif)
 
 If you are interested to follow me elsewhere and get more than a monthly update about the game state, you can:
 - [Join Dysnomia's Discord](https://discord.com/invite/c8aARey)
