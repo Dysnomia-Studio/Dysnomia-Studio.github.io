@@ -13,7 +13,7 @@ categories: gamedev
 3. [12/2023 - #3 - Logistics](https://store.steampowered.com/news/app/2146380/view/3883856311467351828)
 4. [12/2023 - #4 - Events, events everywhere](https://store.steampowered.com/news/app/2146380/view/3883856311496283654)
 5. [02/2024 - #5 - Your mission for this week, should you choose to accept it...](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
-[/olist]
+6. **04/2024 - #6 - How to balance and create content behind the scenes?**  (Here !)
 
 Hello, fellow future entrepreneurs!
 
