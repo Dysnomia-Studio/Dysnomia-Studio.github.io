@@ -111,7 +111,7 @@ Note that the demo will stay up, even when the game is released. The difference 
 
 I am done with this seventh DevBlog. If you want to read more about the game, you can read the other DevBlog as well as:
 - [Join Dysnomia's Discord](https://discord.com/invite/c8aARey)
-- [Follow me on Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Follow me on Bluesky](https://bsky.app/profile/elanis.eu)
 - [Follow me on Twitch](https://www.twitch.tv/elanis42) where I sometimes do game development live (in French, but I answer English questions!)
 
 And don't forget to wishlist and share the game with your friends: this is a great way to help me achieve this game I'm dreaming of!

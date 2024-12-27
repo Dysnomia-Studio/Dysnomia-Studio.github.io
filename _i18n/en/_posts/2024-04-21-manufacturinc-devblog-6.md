@@ -17,7 +17,7 @@ categories: gamedev
 
 Hello, fellow future entrepreneurs!
 
-As I explained on multiple occasions [Discord](https://discord.com/invite/c8aARey), [Bluesky](https://bsky.app/profile/elanis.bsky.social), and [Mastodon](https://mastodon.gamedev.place/@Elanis), I am currently renovating my house and participated to GDC, thus why I skipped March for a DevBlog and slowed down development during these months.   
+As I explained on multiple occasions [Discord](https://discord.com/invite/c8aARey), [Bluesky](https://bsky.app/profile/elanis.eu), and [Mastodon](https://mastodon.gamedev.place/@Elanis), I am currently renovating my house and participated to GDC, thus why I skipped March for a DevBlog and slowed down development during these months.   
 But here I am, back with a brand new Devblog! I will still work less than usual during the end of April and early May, but we will see my free time returning to a normal state during late spring and summer!  
 Working on this game in my free time is surely an unstable situation, but fortunately, I enjoy it a lot! :)  
   
@@ -65,7 +65,7 @@ If you are interested to follow me elsewhere and get more than a monthly update 
 - [Follow me on Tiktok](https://www.tiktok.com/@elanis42) (I will try to post as much as I can here, but it takes a lot of time !)
 - [Follow me on Twitch](https://www.twitch.tv/elanis42) where I sometimes do game development live
 - [Follow me on mastodon](https://mastodon.gamedev.place/@Elanis)
-- [Follow me on Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Follow me on Bluesky](https://bsky.app/profile/elanis.eu)
 
 Thanks for reading this DevBlog, and see you soon!
 Elanis

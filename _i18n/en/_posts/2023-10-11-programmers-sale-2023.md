@@ -5,7 +5,7 @@ tags: gamedev steam marketing extortion post-mortem
 categories: gamedev
 ---
 
-*This post is also available as a thread on [Twitter](https://twitter.com/Elanis42/status/1712146551038980376), [Bluesky](https://bsky.app/profile/elanis.bsky.social/post/3kbiia2tjzl2o) and [Mastodon](https://mastodon.gamedev.place/@Elanis/111217403511029788).*
+*This post is also available as a thread on [Twitter](https://twitter.com/Elanis42/status/1712146551038980376), [Bluesky](https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o) and [Mastodon](https://mastodon.gamedev.place/@Elanis/111217403511029788).*
 
 🧵 A week ago, I started to participate to [@luden_io](https://luden.io)'s Programmer's sale with my game Extortion  
 And I wasn't ready for these amazingly good results at all!  

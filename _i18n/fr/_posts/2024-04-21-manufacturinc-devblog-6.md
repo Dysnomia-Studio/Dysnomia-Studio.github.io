@@ -17,7 +17,7 @@ categories: gamedev
 
 Bonjour à vous, futurs entrepreneurs !
 
-Comme je l'ai expliqué à plusieurs reprises [Discord](https://discord.com/invite/c8aARey), [Bluesky](https://bsky.app/profile/elanis.bsky.social), et [Mastodon](https://mastodon.gamedev.place/@Elanis), je suis actuellement en train de rénover ma maison et j'ai participé à la GDC, c'est pourquoi j'ai sauté le mois de mars pour le DevBlog et j'ai ralenti le développement durant cette période.  
+Comme je l'ai expliqué à plusieurs reprises [Discord](https://discord.com/invite/c8aARey), [Bluesky](https://bsky.app/profile/elanis.eu), et [Mastodon](https://mastodon.gamedev.place/@Elanis), je suis actuellement en train de rénover ma maison et j'ai participé à la GDC, c'est pourquoi j'ai sauté le mois de mars pour le DevBlog et j'ai ralenti le développement durant cette période.  
 Mais me voici de retour avec un tout nouveau DevBlog ! Je continuerai de moins travailler que d'habitude pendant la fin du mois d'avril et le début du mois de mai, mais mon temps libre reviendra à la normale à la fin du printemps et pendant l'été !  
 Travailler sur ce jeu pendant mon temps libre est une situation instable, mais heureusement, j'aime beaucoup travailler dessus ! :)  
   
@@ -65,7 +65,7 @@ Si vous souhaitez me suivre ailleurs et obtenir plus qu'une mise à jour mensuel
 - [Me suivre sur Tiktok](https://www.tiktok.com/@elanis42) (j'essaierai de poster autant que possible ici, mais cela prend beaucoup de temps !)
 - [Suivez-moi sur Twitch](https://www.twitch.tv/elanis42) où je fais parfois du développement de jeux en direct.
 - [Suivez-moi sur mastodon](https://mastodon.gamedev.place/@Elanis)
-- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.eu)
 
 Merci d'avoir lu ce DevBlog, et à bientôt !
 Elanis

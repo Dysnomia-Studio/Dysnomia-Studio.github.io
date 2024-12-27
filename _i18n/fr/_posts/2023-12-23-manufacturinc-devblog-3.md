@@ -73,7 +73,7 @@ Si vous souhaitez me suivre ailleurs et obtenir plus qu'une mise à jour mensuel
 - [Me suivre sur Tiktok](https://www.tiktok.com/@elanis42) (j'essaierai de poster autant que possible ici, mais cela prend beaucoup de temps !)
 - [Suivez-moi sur Twitch](https://www.twitch.tv/elanis42) où je fais parfois du développement de jeux en direct.
 - [Suivez-moi sur mastodon](https://mastodon.gamedev.place/@Elanis)
-- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.eu)
 
 Merci d'avoir lu ce DevBlog, et bon week-end !
 Elanis

@@ -93,7 +93,7 @@ If you are interested to follow me elsewhere and get more than a monthly update 
 - [Follow me on Tiktok](https://www.tiktok.com/@elanis42) (I will try to post as much as I can here, but it takes a lot of time !)
 - [Follow me on Twitch](https://www.twitch.tv/elanis42) where I sometimes do game development live
 - [Follow me on mastodon](https://mastodon.gamedev.place/@Elanis)
-- [Follow my new and shiny Bluesky account!](https://bsky.app/profile/elanis.bsky.social)
+- [Follow my new and shiny Bluesky account!](https://bsky.app/profile/elanis.eu)
 
 Thanks for reading this second DevBlog, and have a nice weekend!
 Elanis

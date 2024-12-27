@@ -113,7 +113,7 @@ Notez que la démo restera en ligne, même lorsque le jeu sortira. La différenc
 
 J'en ai fini avec ce septième DevBlog. Si vous voulez en savoir plus sur le jeu, vous pouvez lire les autres DevBlogs ainsi que.. :
 - [Rejoindre le Discord de Dysnomia](https://discord.com/invite/c8aARey)
-- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Suivez-moi sur Bluesky](https://bsky.app/profile/elanis.eu)
 - [Suivez-moi sur Twitch](https://www.twitch.tv/elanis42) où je développe parfois le jeu en direct.
 
 Et n'oubliez pas d'ajouter en liste de souhaits et de partager le jeu avec vos amis : c'est un excellent moyen de m'aider à réaliser ce jeu !

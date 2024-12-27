@@ -19,7 +19,7 @@ categories: gamedev
 
 Hey there!
 
-I usually post my monthly summaries as threads on [Bluesky](https://bsky.app/profile/elanis.bsky.social/post/3l6paeuomba2f) or [Mastodon](https://mastodon.gamedev.place/@Elanis/113322267008349043), but today I had lots to write and to share with the Steam community, so here I am!
+I usually post my monthly summaries as threads on [Bluesky](https://bsky.app/profile/elanis.eu/post/3l6paeuomba2f) or [Mastodon](https://mastodon.gamedev.place/@Elanis/113322267008349043), but today I had lots to write and to share with the Steam community, so here I am!
 
 # November
 
@@ -73,7 +73,7 @@ To conclude, I want to thank every single person who tested the game, gave feedb
 If you want to follow my gamedev journey you can:
 - Follow/Wishlist the Steam Page to see these DevBlogs
 - [Join Dysnomia's Discord](https://discord.com/invite/c8aARey)
-- [Follow me on Bluesky](https://bsky.app/profile/elanis.bsky.social)
+- [Follow me on Bluesky](https://bsky.app/profile/elanis.eu)
 - [Follow me on Twitch](https://www.twitch.tv/elanis42) where I sometimes do game development live (in French, but I answer English questions!)
 
 And don't forget to wishlist and share the game with your friends: this is a great way to help me achieve this game I'm dreaming of!

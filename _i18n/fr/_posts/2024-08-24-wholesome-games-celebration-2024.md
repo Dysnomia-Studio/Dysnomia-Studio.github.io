@@ -5,7 +5,7 @@ tags: gamedev steam marketing alchemistry post-mortem
 categories: gamedev
 ---
 
-*Ce billet est également disponible en tant que fil de discussion sur [Twitter](https://twitter.com/Elanis42/status/1827293891571179770), [Bluesky](https://bsky.app/profile/elanis.bsky.social/post/3l2hi3vjp5z2i) et [Mastodon](https://mastodon.gamedev.place/@Elanis/113016548184573753).*
+*Ce billet est également disponible en tant que fil de discussion sur [Twitter](https://twitter.com/Elanis42/status/1827293891571179770), [Bluesky](https://bsky.app/profile/elanis.eu/post/3l2hi3vjp5z2i) et [Mastodon](https://mastodon.gamedev.place/@Elanis/113016548184573753).*
 
 Il y a une semaine, j'ai participé à la Wholesome Games Celebration sur Steam avec Alchemistry, ce qui était assez impressionnant en termes de chiffres !
 
